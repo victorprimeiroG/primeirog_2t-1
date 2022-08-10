@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Página do Leonardo</title>
+    <link rel="stylesheet" href="estilo.css">
+  </head>
+  <body>
+    <h1>Página do Leonardo</h1>
+    <h2>Turma: 1°G - Número: 19</h2>
+<div class="caixa1">
+  Conteúdo caixa 1
+</div>
+<div class="caixa2">
+  Conteúdo caixa 2
+
+</div>
+  </body>
+</html>
